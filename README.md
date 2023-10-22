@@ -1,4 +1,4 @@
-# 画像拡大マスター：超解像セットアップシリーズ①
+# 画像拡大マスター：超解像セットアップシリーズ① SRGAN
 
 超解像シリーズは全部で4編書きます。
 1.　MAX Image Resolution Enhancer
@@ -10,18 +10,18 @@
 
 今回は、IBMのMAX Image Resolution Enhancerです。
 
-![](assets/eye_catch.png)
+![](https://raw.githubusercontent.com/yKesamaru/max-image-resolution-enhancer/master/assets/eye_catch.png)
 
 ## 出力結果
 一般的な物体に対して、非常に良い結果を得ることができます。スケールはx4固定です。
 ### 元画像
-![](assets/image4539.png)
-![](assets/image4573.png)
+![](https://raw.githubusercontent.com/yKesamaru/max-image-resolution-enhancer/master/assets/image4539.png)
+![](https://raw.githubusercontent.com/yKesamaru/max-image-resolution-enhancer/master/assets/image4573.png)
 ### 超解像画像
-![](assets/cat.png)
-![](assets/Uitled.png)
+![](https://raw.githubusercontent.com/yKesamaru/max-image-resolution-enhancer/master/assets/cat.png)
+![](https://raw.githubusercontent.com/yKesamaru/max-image-resolution-enhancer/master/assets/Uitled.png)
 
-- [画像拡大マスター：超解像セットアップシリーズ①](#画像拡大マスター超解像セットアップシリーズ)
+- [画像拡大マスター：超解像セットアップシリーズ① SRGAN](#画像拡大マスター超解像セットアップシリーズ-srgan)
   - [出力結果](#出力結果)
     - [元画像](#元画像)
     - [超解像画像](#超解像画像)
@@ -168,9 +168,9 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 
 ```
  ブラウザから`http://0.0.0.0:5000/`にアクセスすると、以下のような画面が表示されます。
-![](assets/2023-10-21-20-24-55.png)
+![](https://raw.githubusercontent.com/yKesamaru/max-image-resolution-enhancer/master/assets/2023-10-21-20-24-55.png)
 
-![](assets/2023-10-21-20-25-44.png)
+![](https://raw.githubusercontent.com/yKesamaru/max-image-resolution-enhancer/master/assets/2023-10-21-20-25-44.png)
 
 ## まとめ
 SRGANを用いたMAX Image Resolution Enhancerのローカル環境構築と、その結果を確認しました。
